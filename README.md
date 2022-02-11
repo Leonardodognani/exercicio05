@@ -2,7 +2,7 @@
 ## Exercício 5
 ## Desenvolva um algoritmo que solicite a entrada de uma frase, após isso, troque todas as letras 'a' por '&', porém, não utilize o método Replace().
 
-* código ainda com erro, a caminho de ser resolvido.
+
 ```
 using System.Text;
 
