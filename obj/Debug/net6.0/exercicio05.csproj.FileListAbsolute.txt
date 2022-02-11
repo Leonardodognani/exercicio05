@@ -1,0 +1,5 @@
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.csproj.AssemblyReference.cache
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.AssemblyInfoInputs.cache
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.AssemblyInfo.cs
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.csproj.CoreCompileInputs.cache
