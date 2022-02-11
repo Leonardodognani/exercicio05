@@ -1,7 +1,4 @@
-﻿/* Desenvolva um algoritmo que solicite a entrada de uma frase, após isto troque todas
-as letras A ou a por &, porém não utilize o método Replace().
-*/
-
+﻿
 namespace exercicio05
 {
     class Program
@@ -35,7 +32,7 @@ namespace exercicio05
                     Count++;
                 }
 
-                Frase = StringBuilder();
+                Frase = StringBuilder(Frase);
 
                 return Frase;
 
