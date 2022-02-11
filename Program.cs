@@ -16,7 +16,7 @@ namespace exercicio05
             Console.ReadKey();
         }
 
-         string Alterar(string Frase)
+        private string Alterar(string Frase)
         {
             if (Frase.Trim().Length > 0)
             {
@@ -35,7 +35,7 @@ namespace exercicio05
                     Count++;
                 }
 
-                Frase = StringBuilder.ToString();
+                Frase = StringBuilder();
 
                 return Frase;
 
