@@ -1,4 +1,7 @@
 ﻿
+
+using System.Text;
+
 namespace exercicio05
 {
     class Program
@@ -7,34 +10,33 @@ namespace exercicio05
         {
             Program p = new Program();
 
-            string Frase = "O rato roeu a roupa do rei de roma.";
+            string frase = "O rato roeu a roupa do rei de roma.";
 
-            Console.WriteLine(p.Alterar(Frase));
+            Console.WriteLine(p.Alterar(frase));
             Console.ReadKey();
         }
 
-        private string Alterar(string Frase)
+        private string Alterar(string frase)
         {
-            if (Frase.Trim().Length > 0)
+            if (frase.Trim().Length > 0)
             {
-                int Total = Frase.Length;
-                int Count = 0;
+                int total = frase.Length;
+                int count = 0;
                 
-                var StringBuilder = new StringBuilder(Frase);
+                var stringBuilder = new StringBuilder(frase);
 
-
-                while (Count < Total)
+                while (count < total)
                 {
-                    if (StringBuilder[Count] == 'a')
+                    if (stringBuilder[count] == 'a')
                     {
-                        StringBuilder[Count] = '&';
+                        stringBuilder[count] = '&';
                     }
-                    Count++;
+                    count++;
                 }
 
-                Frase = StringBuilder(Frase);
+                frase = stringBuilder.ToString();
 
-                return Frase;
+                return frase;
 
             }
             else

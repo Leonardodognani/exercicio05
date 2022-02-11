@@ -3,3 +3,13 @@ C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05
 C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.AssemblyInfoInputs.cache
 C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.AssemblyInfo.cs
 C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.csproj.CoreCompileInputs.cache
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\bin\Debug\net6.0\exercicio05.exe
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\bin\Debug\net6.0\exercicio05.deps.json
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\bin\Debug\net6.0\exercicio05.runtimeconfig.json
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\bin\Debug\net6.0\exercicio05.dll
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\bin\Debug\net6.0\ref\exercicio05.dll
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\bin\Debug\net6.0\exercicio05.pdb
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.dll
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\ref\exercicio05.dll
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.pdb
+C:\Users\vntrodo\desktop\estudos\github\exercicio05\obj\Debug\net6.0\exercicio05.genruntimeconfig.cache
